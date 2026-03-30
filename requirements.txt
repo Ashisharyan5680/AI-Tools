@@ -1,0 +1,9 @@
+PROJECT: Smart Document Analyzer
+pytesseract
+opencv-python
+pillow
+pandas
+scikit-learn
+transformers
+torch
+pip install pytesseract pillow pandas scikit-learn transformers torch
